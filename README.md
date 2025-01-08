@@ -8,13 +8,13 @@ _Fique à vontade para compartilhar sua opinião conosco, ou relatar algum erro 
 
 
 ## Sumário
-1. [Sobre à Comunidade](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#nossa-miss%C3%A3o)
-2. [Normas de convivência](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#2-normas-de-conviv%C3%AAncia)
-3. [Canais oficiais](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#3-canais-oficiais)
-4. [Calendário de eventos](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#4-calend%C3%A1rio-de-eventos)
-5. [Como a comunidade está estruturada](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#3-como-a-comunidade-est%C3%A1-estruturada)
+1. [Sobre à Comunidade](https://github.com/pugcefortaleza#quais-s%C3%A3o-os-nossos-objetivos)
+2. [Normas de convivência](https://github.com/pugcefortaleza#2-normas-de-conviv%C3%AAncia)
+3. [Canais oficiais](https://github.com/pugcefortaleza#3-canais-oficiais)
+4. [Calendário de eventos](https://github.com/pugcefortaleza#4-calend%C3%A1rio-de-eventos)
+5. [Como a comunidade está estruturada](https://github.com/pugcefortaleza#4-calend%C3%A1rio-de-eventos)
 6. [Como colaborar com a comunidade](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#3-canais-oficiais)
-7. [Seja um patrocinador](https://github.com/pugcefortaleza/pugcefortaleza/edit/main/README.md#7-seja-um-patrocinador)
+7. [Seja um patrocinador](https://github.com/pugcefortaleza#4-calend%C3%A1rio-de-eventos)
    
    
 
